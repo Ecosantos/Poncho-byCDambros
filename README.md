@@ -1,8 +1,9 @@
 # Poncho-byCDambros
  Função poncho criada e disponibilizada por Cristian Dambros e disponibilizada aqui para uso em sala de aula já que FigShare não mais permite a instalação direta.
+ 
  Veja informações fornecidas pelo autor no texto abaixo disponível no [repositório do PPBIO](https://ppbio.inpa.gov.br/analises/poncho)
  
- 
+ Para instalar utilizar o comando no R `source("https://raw.githubusercontent.com/Ecosantos/Poncho-byCDambros/refs/heads/main/Poncho.R")`
  ---
 A função Poncho é utilizada para elaborar gráficos de distribuição de espécies em função de gradientes ambientais. 
 
